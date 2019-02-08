@@ -7,8 +7,8 @@ to search for information to clarify doubts and expand their current knowledge b
 by coming up with a suitable solution<br/>
 <br/>
 <b>What it does</b><br/>
-Our software uses an image of what you are reading to detect key concepts and based on which concept is most relevant to you<br/>
-it gives suitable video suggestions. It also provides a call feature to connect you to people exploring similar areas to help<br/>
+Our software uses an image of what you are reading to detect key concepts and based on which concept is most relevant to<br/>
+you it gives suitable video suggestions. It also provides a call feature to connect you to people exploring similar areas to help<br/>
 you share and learn more.<br/>
 <br/>
 <b>How we built it</b><br/>
